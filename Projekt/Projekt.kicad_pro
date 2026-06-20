@@ -58,7 +58,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|125600000|100700000|7a6f1ae8-de40-422a-852c-2adf26dd8219|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|131800000|116185000|a8df40c1-b61e-4efb-9fd9-3fdf8d55772a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|136870000|103577500|253cab2e-9393-47f6-b49f-75c4a4a98129|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|138200000|113250000|2903b84f-7aef-4d0f-8e91-fc58d73e87cd|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -508,7 +525,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
